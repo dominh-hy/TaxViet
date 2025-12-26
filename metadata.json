@@ -1,0 +1,7 @@
+{
+  "name": "TaxViet - Quản lý Thuế Hiệu Quả",
+  "description": "A comprehensive tax management application for individual business households in Vietnam, featuring AI-powered consulting and automated tax calculations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
